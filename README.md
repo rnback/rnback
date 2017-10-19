@@ -32,7 +32,7 @@ To learn more, head to [https://rnback.com](https://rnback.com)
     react-native link rnback
 ```
 
-5. Done! you can now use the sdk from your app
+5. Done! you can now use the sdk in your app
 ```javascript
     import {authenticate} from 'rnback';
     
