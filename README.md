@@ -38,7 +38,7 @@ To learn more, head to [https://rnback.com](https://rnback.com)
     
     authenticate()
         .then(() => console.log('yay!'))
-	    .catch(() => console.log('boo'));
+	.catch((err) => console.log('boo', err));
 ```
 
 ---
